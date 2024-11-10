@@ -1,4 +1,4 @@
-
+#Panamark
 .globl str_ge, recCheck
 
 .data
@@ -41,9 +41,10 @@ str_ge:
 # else
 #     return 0
 
-recCheck:
+recCheck: 
 #---------
 # Write the subroutine code here
 #  You may move jr ra   if you wish.
 #---------
             jr   ra
+			dddd
